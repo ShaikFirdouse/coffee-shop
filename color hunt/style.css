@@ -1,0 +1,614 @@
+#Text_body{
+    height: 500px;
+    width: 600px;
+    background-color: rgb(228, 228, 54);
+}
+body{
+    background-color: lavenderblush;
+}
+#fiddu{
+    height: 650px;
+    width: 700px;
+    border: 1.5px solid black;
+    border-radius: 25px;
+    display: inline-block;
+    background-color: lightyellow;
+}
+#fiddu1{
+    height: 320px;
+    width: 360px;
+    border: 1.5px solid black;
+    border-radius:25px;
+    float: right;
+    display: inline;
+    margin-right: 410px;
+    background-color: lightyellow;
+
+}
+#fiddu2{
+    height: 320px;
+    width: 360px;
+    border: 1.5px solid black;
+    border-radius:25px;
+    float: right;
+    margin-top: -652px;
+    background-color: lightyellow;
+
+}
+#fiddu3{
+    height: 320px;
+    width: 774px;
+    border: 1.5px solid black;
+    border-radius: 25px;
+    float: right;
+    margin-top: -325px;
+    background-color: lightyellow;
+}
+#farru{
+    background-color: white;
+    height: 240px;
+    width: 320px;
+    border-radius: 15px;
+}
+#summu{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: red;
+    display: inline;
+    border-color: red;
+}
+#summu1{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: blue;
+    border-color: blue;
+}
+#summu2{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: green;
+}
+#summu3{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: purple;
+}
+#summu4{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: black;
+}
+#summu5{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color:gray;
+}
+#summu6{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: pink;
+}
+#summu7{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: yellowgreen;
+}
+#summu8{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: brown;
+}
+#summu9{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+#summu10{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: silver;
+}
+#summu11{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: darkgreen;
+}
+#summu12{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: orange;
+}
+#summu13{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: darkblue;
+}
+#summu14{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: navajowhite;
+}
+#summu15{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: paleturquoise;
+}
+#summu16{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: aquamarine;
+}
+#summu17{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: chartreuse;
+}
+#summu18{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: goldenrod;
+}
+#summu19{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: indianred;
+}
+#summu20{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: khaki;
+}
+#summu21{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: lightsalmon;
+}
+#summu22{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: mistyrose;
+}
+#summu23{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: olive;
+}
+#summu24{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: aqua;
+}
+#summu25{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: burlywood;
+}
+#summu26{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: cornsilk;
+}
+#summu27{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: fuchsia;
+}
+#summu28{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: limegreen;
+}
+#summu29{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: tomato;
+}
+#farru1{
+    background-color: white;
+    height: 240px;
+    width: 320px;
+    border-radius: 15px;
+}
+
+#sanu{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: red;
+    display: inline;
+    border-color: red;
+}
+#sanu1{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: blue;
+    border-color: blue;
+}
+#sanu2{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: green;
+}
+#sanu3{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: purple;
+}
+#sanu4{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: black;
+}
+#sanu5{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color:gray;
+}
+#sanu6{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: pink;
+}
+#sanu7{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: yellowgreen;
+}
+#sanu8{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: brown;
+}
+#sanu9{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+#sanu10{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: silver;
+}
+#sanu11{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: darkgreen;
+}
+#sanu12{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: orange;
+}
+#sanu13{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: darkblue;
+}
+#sanu14{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: navajowhite;
+}
+#sanu15{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: paleturquoise;
+}
+#sanu16{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: rgb(24, 221, 188);
+}
+#sanu17{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: chartreuse;
+}
+#sanu18{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: goldenrod;
+}
+#sanu19{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: indianred;
+}
+#sanu20{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: khaki;
+}
+#sanu21{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: lightsalmon;
+}
+#sanu22{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: mistyrose;
+}
+#sanu23{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: olive;
+}
+#sanu24{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: aqua;
+}
+#sanu25{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: burlywood;
+}
+#sanu26{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: cornsilk;
+}
+#sanu27{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: fuchsia;
+}
+#sanu28{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: limegreen;
+}
+#sanu29{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: tomato;
+}
+#vini{
+    height: 500px;
+    width: 600px;
+    background-color: white;
+    margin-top: 50px;
+    border: none;
+    font-size: 30px;
+    text-align: center;
+}
+#uzzu{
+    width: 90px;
+    height: 40px;
+    font-family:   monospace;
+    margin-left: 50PX;
+    background-color: pink;
+}
+#uzzu1{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Franklin Gothic Medium;
+    margin-left: 20px;
+}
+#uzzu2{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Gill Sans;
+    margin-left: 20px;
+}
+#uzzu3{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Lucida Sans;
+    margin-left: 20px;
+}
+#uzzu4{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Segoe UI;
+    margin-left: 20px;
+}
+#uzzu5{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Times New Roman;
+    margin-left: 20px;
+}
+#uzzu6{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Trebuchet MS;
+    margin-left: 50px;
+}
+#uzzu7{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Arial;
+    margin-left: 20PX;
+}
+#uzzu8{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Cochin;
+    margin-left: 20px;
+}
+#uzzu9{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Impact;
+    margin-left: 20px;
+}
+#uzzu10{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Verdana;
+    margin-left: 20px;
+}
+#uzzu11{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:cursive;
+    margin-left: 20px;
+}
+#uzzu12{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:fantasy;
+    margin-left: 50px;
+}
+#uzzu13{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Trebuchet MS;
+    margin-left: 20px;
+}
+#uzzu14{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:sans-serif;
+    margin-left: 20px;
+}
+#uzzu15{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:serif;
+    margin-left: 20px;
+}
+#uzzu16{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Courier;
+    margin-left: 20px;
+}
+
+#uzzu17{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Courier New;
+    margin-left: 20px;
+}
+#uzzu18{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Tahoma;
+    margin-left: 50px;
+}
+#uzzu19{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Georgia;
+    margin-left: 20px;
+}
+#uzzu20{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family:Arial;
+    margin-left: 20px;
+}
+#uzzu21{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Gill Sans MT;
+    margin-left: 20px;
+}
+#uzzu22{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Helveticaf;
+    margin-left: 20px;
+}
+#uzzu23{
+    height: 40px;
+    background-color: pink;
+    width: 90px;
+    font-family: Haettenschweiler;
+    margin-left: 20px;
+}
+#vini1{
+    background-color: lightgoldenrodyellow;
+    margin-left: 280px;
+}
+#vini2{
+    background-color: lightgoldenrodyellow;
+    margin-left: 60px;
+}
+
+
+

@@ -1,0 +1,176 @@
+.div1{
+    height: 50px;
+    background-color: white;
+
+}
+.div2{
+    background-color:rgb(21, 234, 163);
+    height: 700px;
+    display: inline-block;
+}
+.fiddu1{
+    display: inline;
+    font-size: 45px;
+    color: brown;
+}
+center{
+     display: inline;
+     float: right;
+     color: white;
+     font-size: 30px;
+}
+.fiddu2{
+    margin-left: 200px;
+    margin-top:28px ;
+    display: inline;
+}
+.fiddu3{
+    display: inline;
+    float: right;
+    font-size: 100px;
+}
+.fiddu4{
+    display: inline;
+    float: right;
+    margin-top: -80px;
+    font-size: 30px;
+}
+.div3{
+    height: 480px;
+    background-color: white;
+}
+.fiddu5{
+    float: left;
+    margin-left: 120px;
+}
+.fiddu6{
+    font-size: 50px;
+    display: inline;
+    text-decoration: underline;
+    color: brown;
+}
+.fiddu7{
+    font-size: 30px;
+    display: inline;
+}
+.fiddu8{
+    font-size: 20px;
+    display: inline;
+}
+.fiddu9{
+    font-size: 20px;
+    display: inline;
+}
+.fiddu10{
+    font-size: 20px;
+    display: inline;
+}
+.fiddu11{
+    font-size: 20px;
+    display: inline;
+}
+.fiddu12{
+    font-size: 20px;
+    display: inline;
+}
+.fiddu13{
+    font-size: 20px;
+    display: inline;
+}
+.fiddu14{
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+}
+.div4{
+    height: 450px;
+    background-color: white;
+}
+.fiddu15{
+    font-size: 45px;
+    display: inline;
+    margin-left: 200px;
+    text-decoration: underline;
+    color: brown;
+}
+.fiddu16{
+    display: inline;
+    margin-left: 200px;
+    font-size: 35px;
+}
+.fiddu17{
+    display: inline;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.fiddu18{
+    display: inline;
+    margin-left: 200px;
+    font-size: 45px;
+}
+.fiddu19{
+    display: inline;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.fiddu20{
+    display: inline;
+    margin-left: 200px;
+    font-size: 45px;
+}
+.fiddu21{
+    display: inline;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.div5{
+    height: 400px;
+    width: 700px;
+   margin-top: -500px;
+}
+.fiddu22{
+    color: brown;
+    text-decoration: underline;
+}
+.fiddu23{
+    display: inline;
+    margin-left: 20px;
+}
+.div6{
+    height: 500px;
+}
+.fiddu24{
+    font-size: 50px;
+    text-decoration: underline;
+    color: brown;
+}
+.div7{
+    height: 600px;
+}
+.fiddu25{
+    width: 250px;
+    height: 30px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.fiddu26{
+    width: 250px;
+    height: 30px;
+    margin-left: 350px;
+    margin-right: 50px;
+}
+.fiddu27{
+    height: 30px;
+    width: 250px;
+    margin-left: 300px;
+}
+.fiddu28{
+    height: 200px;
+    width: 600px;
+    margin-left: 485px;
+}
+.fiddu29{
+    height: 25px;
+    width: 90px;
+    margin-left: 730px;
+}

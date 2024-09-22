@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+   color: white;
+    display: inline-block;
+   
+}
+.how{
+    color: whitesmoke;
+    display: inline-block;
+    float: left;
+    vertical-align: top;
+}
+.fiddu2{
+    display: inline;
+    vertical-align: top;
+    display: inline-block;
+    vertical-align: middle;
+}
+.fiddu5{
+    display: inline-block;
+}
+.fiddu3{
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+}
+.fiddu4{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+}
+#fiddu6{
+    vertical-align: middle;
+}
+.fiddu7{
+    vertical-align: middle;
+    display: inline-block;
+}
+.fiddu8{
+    height: 220px;
+    display: inline-block;
+    margin-left: 40px;
+}
+.fiddu9{
+    width: 190px;
+    height: 260px;
+    border-radius: 5%;
+}
+.fiddu11{
+    margin-left: 20px;
+    display: inline-block;
+}
+.fiddu12{
+    display: inline-block;
+    vertical-align: middle;
+}
+.fiddu13{
+    height: 220px;
+    display: inline-block;
+    margin-left: 40px;
+}
+.fiddu14{
+    width: 190px;
+    height: 260px;
+    border-radius: 5%;
+}

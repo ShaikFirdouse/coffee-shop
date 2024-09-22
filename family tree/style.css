@@ -1,0 +1,15 @@
+.sanu{
+    color: darkturquoise;
+    margin-bottom: 20px;
+}
+body{
+    background-color: cornsilk;
+}
+div:hover p{
+    display: block;
+}
+p{
+    display: none;
+    width: 300px;
+    color: rgb(123, 22, 217);
+}

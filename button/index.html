@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="Stop()">Stop</button>
+    <img id="Car" src="car.jpeg" width="900px" height="400px" style="display: none;">
+    <button onclick="Start()">Star</button>
+    <iframe id="car2" src="069867637-black-sport-car-road-highway-v.mp4" height="500px" width="1000px" style="display: none;"></iframe>
+
+<script>
+    
+    function Stop(){
+        document.getElementById('Car').style.display='inline'
+        document.getElementById('car2').style.display='none'
+
+    }function Start(){
+        document.getElementById('car2').style.display='block'
+        document.getElementById('Car').style.display='none'
+    }
+
+     
+
+</script>
+    
+    
+</body>
+</html>

@@ -1,0 +1,179 @@
+body{
+    background-color: black;
+}
+#div1{
+    width: 330px;
+    height: 700px;
+    background-color: black;
+    float: left;
+    vertical-align: top;
+}
+#sub1{
+    width: 330px;
+    height: 130px;
+    background-color: #212121;
+}
+.h1{
+    color: ghostwhite;
+}
+.h2{
+    color: ghostwhite;
+}
+.h3{
+    color: ghostwhite;
+}
+#sub2{
+    width: 330px;
+    height: 545px;
+    background-color: #212121;
+    float: left;
+    vertical-align: top;
+
+}
+#sub3{
+    width: 330px;
+    height: 130px;
+    background-color: #535353;
+}
+.h4{
+    color: ghostwhite;
+}
+.h5{
+    color: ghostwhite;
+}
+.h6{
+    background-color: white;
+    width: 120px;
+    border-radius: 20px;
+    margin-left: 20px;
+    height: 20px;
+}
+#sub4{
+    width: 330px;
+    height: 40px;
+    background-color:  rgb(83, 83, 84);
+}
+.h7{
+    color: ghostwhite;
+}
+.h8{
+    color: ghostwhite;
+}
+.h9{
+    color: ghostwhite;
+}
+.h10{
+    color: ghostwhite;
+}
+.h11{
+    background-color: black;
+    color: ghostwhite;
+    width: 100px;
+    margin-left: 20px;
+    border-radius:20px ;
+    border: white;
+}
+#div2{
+    width: 1120px;
+    height: 700px;
+    background-color:  #212121;
+    float: right;
+    vertical-align: top;
+}
+.h12{
+    color: ghostwhite;
+}
+#sub5{
+    width: 1120;
+    height: 645px;
+    background-color: #535353;
+    vertical-align: top;
+}
+.h13{
+    color: ghostwhite;
+    border-radius: 20%,20%;
+}
+.h14{
+    color: ghostwhite;
+}
+.h15{
+    color: ghostwhite;
+}
+.how{
+    display: inline-block;
+}
+.how1{
+    display: inline-block;
+}
+.h16{
+    color: ghostwhite;
+}
+.h17{
+    color: ghostwhite;
+}
+.how2{
+    display: inline-block;
+}
+.h18{
+    color: ghostwhite;
+}
+.h19{
+    color: ghostwhite;
+}
+.how3{
+    display: inline-block;
+}
+.h20{
+    color: ghostwhite;
+}
+.h21{
+    color: ghostwhite;
+}
+.how4{
+    display: inline-block;
+}
+.h22{
+    color: ghostwhite;
+}
+.h23{
+    color: ghostwhite;
+}
+.how5{
+    display: inline-block;
+}
+.h24{
+    color: ghostwhite;
+}
+.h25{
+    color: ghostwhite;
+}
+.how6{
+    display: inline-block;
+}
+.h26{
+    color: ghostwhite;
+}
+.h27{
+    color: ghostwhite;
+}
+.h28{
+    color: ghostwhite;
+}
+.how7{
+    display: inline-block;
+}
+.how8{
+    display: inline-block;
+}
+.how9{
+    display: inline-block;
+}
+.how10{
+    display: inline-block;
+}
+.how11{
+    display: inline-block;
+}
+.how12{
+    display: inline-block;
+}

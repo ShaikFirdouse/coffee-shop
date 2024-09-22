@@ -1,0 +1,116 @@
+#div1{
+     width: 950px;
+     height: 950px;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: auto;
+}
+#div2{
+     width: 850px;
+     height: 850px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: top;
+}
+#div3{
+     width: 750px;
+     height: 750px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: top;
+
+}
+#div4{
+     width: 650px;
+     height: 650px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: top;
+}
+#div5{
+     width: 550px;
+     height: 550px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: top;
+}
+#div6{
+     width: 450px;
+     height: 450px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: top;
+}
+#div7{
+     width: 350px;
+     height: 350px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: top;
+}
+#div8{
+     width: 250px;
+     height: 250px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+     vertical-align: top;
+}
+#div9{
+     width: 150px;
+     height: 150px;
+     border: 1.5px solid whitesmoke;
+     border-radius: 50%;
+     align-content: center;
+}
+h1{
+     background-color: whitesmoke;
+     color: black;
+     border-radius: 30px;
+}
+.nep{
+     vertical-align: bottom;
+     margin-bottom: -7%;
+     margin-right: -45%;
+     height: -45px;
+     width: 45px;
+     text-align: right;
+}
+.i1{
+     vertical-align: bottom;
+     margin-bottom: -50px;
+
+}
+.i2{
+     vertical-align: bottom;
+     margin-bottom: -30px;
+}
+.i3{
+     vertical-align: bottom;
+     margin-bottom: -15px;
+}
+.i4{
+     vertical-align: bottom;
+     margin-bottom: -8px;
+}
+.i5{
+     vertical-align: bottom;
+     margin-bottom: -7px;
+.i6{
+     vertical-align: bottom;
+     margin-bottom: -20px;
+}
+.i7{
+     vertical-align: bottom;
+     margin-bottom: -5px;
+}
+.i8{
+     vertical-align: bottom;
+     margin-bottom: 20;
+}

@@ -1,0 +1,60 @@
+.div1{
+    background-image: url(background2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.fiddu1{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+}
+.div4{
+    background-image: url(vivak\ bindra.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.sanu1{
+    color: white;
+    text-decoration: underline;
+}
+.sanu2{
+    color: white;
+}
+.div3{
+    background-image: url(priya-kumar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.sanu3{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+.sanu4{
+    color: white;
+    float: right;
+}
+.div6{
+    background-image: url(YouTube1703233563858.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.div5{
+    background-image: url(130507_oleander_ex.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.div2{
+    background-image: url(compress_kalam_anniversary.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.fiddu6{
+    color: white;
+}

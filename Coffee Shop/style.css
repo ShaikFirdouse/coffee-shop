@@ -1,0 +1,100 @@
+#background{
+    background: url(coffee-3120750_1920.jpg);
+    padding: 20px;
+    height: vh;
+}
+span{
+    color: white;
+    font-size: 1.5rem;
+}
+#fiddu1{
+    display: flex;
+    align-items: center;
+}
+#fiddu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+#fiddu2{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    letter-spacing: 13px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#fiddu3{
+    font-size: 30px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#shop{
+    height: 3rem;
+    width: 90px;
+    border: 1.5px solid white;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+}
+#shop:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+#fiddu6{
+    font-size: 50px;
+    padding-top: 60px;
+}
+#fiddu8{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#fiddu7{
+    font-size: 30px;
+    color: rgb(114, 109, 109);
+}
+#fiddu9{
+    border-radius: 25px;
+}
+#fiddu10{
+    font-size: 30px;
+    font-style: italic;
+}
+#fiddu11{
+    color: rgb(135, 130, 130);
+}
+#fiddu12{
+    border-radius: 25px;
+}
+#fiddu13{
+    font-size: 30px;
+    font-style: italic;
+}
+#fiddu14{
+    color: rgb(135, 130, 130);
+}
+#fiddu15{
+    border-radius: 25px;
+}
+#fiddu16{
+    font-size: 30px;
+    font-style: italic;
+}
+#fiddu17{
+    color: rgb(135, 130, 130);
+}
+#fiddu18{
+    border-radius: 25px;
+}
+#fiddu19{
+    font-size: 30px;
+    font-style: italic;
+}
+#fiddu20{
+    color: rgb(135, 130, 130);
+}
+
+
+
+

@@ -1,0 +1,67 @@
+.div1{
+    margin-top: 40px;
+    margin-left: 40px;
+    display: inline;
+    float: left;
+}
+.div2{
+    display: inline;
+    float: left;
+}
+.div3{
+    display: inline;
+}
+#div4{
+    display: inline;
+    font-size: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: right;
+}
+.fiddu1{
+    float: left;
+}
+.h1{
+    display: inline;
+}
+.fiddu2{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    float: left;
+    border-radius: 50%;
+    display: inline;
+}
+.fiddu3{
+    background-color: tomato;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    float: right;
+}
+.fiddu9{
+    text-align: center;
+    padding-top: 60px;
+    color: black;
+}
+.fiddu6{
+    background-color: aqua;
+    height: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+}
+.telugu{
+    display: inline;
+}
+.telugu2{
+    display: inline;
+}
+.telugu3{
+    display: inline;
+}
+.telugu4{
+    display: inline;
+}
+.telugu5{
+    display: inline;
+}
